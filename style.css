@@ -38,7 +38,7 @@ body {
 
 .heroImg {
   flex: 2;
-  height: 100%;
+  height: 100vh;
   max-height: 100vh;
   width: 100%;
   overflow: hidden;
@@ -47,6 +47,7 @@ body {
 .desktopImg {
   width: 100%;
   object-fit: cover;
+  height : 100%;
 }
 
 .containerHeading {
